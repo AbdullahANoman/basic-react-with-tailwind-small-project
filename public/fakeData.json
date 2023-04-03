@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "type": "Basic Membership",
+      "price": 25,
+      "features": [
+        "Access to cardio and weight equipment",
+        "Group fitness classes",
+        "Locker rental available for additional fee"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "Premium Membership",
+      "price": 50,
+      "features": [
+        "Access to all equipment and facilities",
+        "Unlimited group fitness classes",
+        "Free locker rental",
+        "Complimentary towel service"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "VIP Membership",
+      "price": 100,
+      "features": [
+        "All Premium features plus:",
+        "Personal training sessions",
+        "Nutrition consultations",
+        "Access to exclusive amenities"
+      ]
+    }
+  ]
+  
