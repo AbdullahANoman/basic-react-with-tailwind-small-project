@@ -5,6 +5,8 @@ import './App.css'
 import NavShow from './Components/NavShow/NavShow'
 import { Bars3Icon,XMarkIcon } from '@heroicons/react/24/solid'
 import LoadCard from './Components/LoadCard/LoadCard'
+import Chart from './Components/Chart/Chart'
+import PhoneBar from './Components/PhoneBar/PhoneBar'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -54,6 +56,8 @@ function App() {
       </div>
     </div>
     <LoadCard></LoadCard>
+    <Chart></Chart>
+    <PhoneBar></PhoneBar>
     </>
   )
 }
